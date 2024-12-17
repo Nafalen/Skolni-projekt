@@ -12,8 +12,11 @@ Pracoval jsem sám a veškeré zdroje jsou uvedeny níže.
 
 # 4. Zdroje
  Při vytváření tohoto projektu jsem vytvořil dva pod projetky ze kterých jsem dále vycházel. 
- Zdroje:    https://www.cisco.com/#tabs-35d568e0ff-item-194f491212-tab   
-            https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-to-setup-network-switch.html
-            https://www.cisco.com/c/en/us/td/docs/routers/access/800M/software/800MSCG/routconf.html
-            https://www.youtube.com/@gurutechnetworks 
+ 
+ Zdroje:
+ 
+ https://www.cisco.com/#tabs-35d568e0ff-item-194f491212-tab   
+ https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-to-setup-network-switch.html
+ https://www.cisco.com/c/en/us/td/docs/routers/access/800M/software/800MSCG/routconf.html
+ https://www.youtube.com/@gurutechnetworks 
 
