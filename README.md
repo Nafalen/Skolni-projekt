@@ -6,6 +6,7 @@ Mým cílem tohoto projektu bylo sebezdokonalení a doučení v oblasti sítí. 
 # 2. Stav projektu 
 Veškerý popis je v přiloženém souboru, kde najdete veškerou konfiguraci. Každé zařízení má svou adresu a je přiděleno do příslušného VLAN.
 Je zde také nastavený DHCP server a pro komunikaci na dálku je použita šifrovaná komunikace přes SSH. Každé poschodí má také AP-PT pro Wi-Fi.
+Tento projekt je dle mě hotový.
 
 # 3. Členi 
 Pracoval jsem sám a veškeré zdroje jsou uvedeny níže.
