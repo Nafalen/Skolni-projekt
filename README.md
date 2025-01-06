@@ -9,7 +9,7 @@ Je zde také nastavený DHCP server a pro komunikaci na dálku je použita šifr
 Tento projekt je dle mě hotový. Pro otevření mého projektu musíte stáhnout Packet Tracer.
 +popis je upraven ai !! CÉLÝ TEXT JE VYTVOŘEN MNOU A MÝMI SLOVY JEDINÉ DOPOMOC OD AI BYLA OPRAVA PRAVOPISNÝCH CHYB ABY TO BYLO LÉPE ČITELNÉ !!
 
-# 3. Pospis projektu
+# 3. Popis projektu
 Zde je obrázek mého projektu:
 <img width="1247" alt="vis1" src="https://github.com/user-attachments/assets/7f83336a-caf3-4a31-9a5c-fff79bd57217" />
 
