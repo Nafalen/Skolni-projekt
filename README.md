@@ -8,14 +8,18 @@ Veškerý popis je v přiloženém souboru, kde najdete veškerou konfiguraci. K
 Je zde také nastavený DHCP server a pro komunikaci na dálku je použita šifrovaná komunikace přes SSH. Každé poschodí má také AP-PT pro Wi-Fi.
 Tento projekt je dle mě hotový. Pro otevření mého projektu musíte stáhnout Packet Tracer.
 
-# 3. Členi 
+# . Pospis projektu
+<img width="1247" alt="vis1" src="https://github.com/user-attachments/assets/7f83336a-caf3-4a31-9a5c-fff79bd57217" />
+
+
+# . Členi 
 Pracoval jsem sám a veškeré zdroje jsou uvedeny níže.
 
-# 4. Citace
+# . Citace
 Cisco. Online. S. 1. Dostupné z: https://www.cisco.com/#tabs-35d568e0ff-item-194f491212-tab. [cit. 2025-01-06].
 Cisco. Online. S. 1. Dostupné z: https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-to-setup-network-switch.html. [cit. 2025-01-06].
 
-# 5. Zdroje
+# . Zdroje
  Při vytváření tohoto projektu jsem vytvořil dva pod projetky ze kterých jsem dále vycházel. 
  
  
