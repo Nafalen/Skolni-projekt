@@ -7,7 +7,7 @@ Mým cílem tohoto projektu bylo sebezdokonalení a doučení v oblasti sítí. 
 Veškerý popis je níže, kde najdete veškerou konfiguraci a ostatní. Každé zařízení má svou adresu a je přiděleno do příslušný VLAN.
 Je zde také nastavený DHCP server a pro komunikaci na dálku je použita šifrovaná komunikace přes SSH. Každé poschodí má také AP-PT pro Wi-Fi.
 Tento projekt je dle mě hotový. Pro otevření mého projektu musíte stáhnout Packet Tracer.
-+popis je upraven ai !! CÉLÝ TEXT JE VYTVOŘEN MNOU A MÝMI SLOVY JEDINÉ DOPOMOC OD AI BYLA OPRAVA PRAVOPISNÝCH CHYB ABY TO BYLO LÉPE ČITELNÉ !!
++popis je upraven ai !! CÉLÝ TEXT JE VYTVOŘEN MNOU A MÝMI SLOVY JEDINÁ DOPOMOC OD AI BYLA OPRAVA PRAVOPISNÝCH CHYB ABY TO BYLO LÉPE ČITELNÉ !!
 
 # 3. Popis projektu
 Zde je obrázek mého projektu:
