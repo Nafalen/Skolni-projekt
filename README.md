@@ -11,8 +11,13 @@ Tento projekt je dle mě hotový. Pro otevření mého projektu musíte stáhnou
 # 3. Členi 
 Pracoval jsem sám a veškeré zdroje jsou uvedeny níže.
 
-# 4. Zdroje
+# 4. Citace
+Cisco. Online. S. 1. Dostupné z: https://www.cisco.com/#tabs-35d568e0ff-item-194f491212-tab. [cit. 2025-01-06].
+Cisco. Online. S. 1. Dostupné z: https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-to-setup-network-switch.html. [cit. 2025-01-06].
+
+# 5. Zdroje
  Při vytváření tohoto projektu jsem vytvořil dva pod projetky ze kterých jsem dále vycházel. 
+ 
  
  Zdroje:
  
