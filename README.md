@@ -41,7 +41,12 @@ Teď se dostáváme k využití AP. Je to krabička, která umožňuje bezdráto
 
 ### Závěr:
 Toto bylo moje vysvětlení pokud by byly nějaké nejasnosti tak mi napište nebo mi řekněte ve škole cokoli co nebudete chápat tak vám klidně vysvětlím vím že jste mi doporučil udělat video jenomže můj problém je že toto témá je trochu koplikované a mám prostě problémy se vyjadřovat takže za to se omlouvám ale do příště to určitě napravím a video udělám SLIBUJU  
- 
+
+ ### Dodatečné obrázky:
+<img width="612" alt="vis5" src="https://github.com/user-attachments/assets/0d7713ab-2746-47b8-a2bd-e9ec3b3403f0" />
+<img width="602" alt="vis6" src="https://github.com/user-attachments/assets/701be737-1d5d-4d91-a843-e97f61e8495d" />
+<img width="609" alt="vis7" src="https://github.com/user-attachments/assets/4d4b3c1c-98ae-4a56-88d9-e7ce91f30c5c" />
+<img width="320" alt="vis8" src="https://github.com/user-attachments/assets/db82c83b-a1c9-497c-9a75-fc745c2645f4" />
 
 # 4. Členi 
 Pracoval jsem sám a veškeré zdroje jsou uvedeny níže.
