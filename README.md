@@ -31,6 +31,8 @@ DHCP, neboli Dynamic Host Configuration Protocol, jak název napovídá, je prot
 
 DNS, neboli Domain Name System, je také protokol a jeho funkce je překlad domény na IP adresu. Zde je využit pro funkci DHCP serveru, neboť bez DNS protokolu nefunguje.
 
+Je zde OSPF protokol neboli směrovací protokal který vybírá nejlepší cestu mezi sítěma.
+
 Pak zde máme počítač admina, který je zabezpečen tak, že v jeho podsíti může být jen jeho zařízení s tiskárnou. Je to zde jen pro bezpečnost.
 
 SSH, neboli Secure Shell, je zde pro komunikaci z PC mezi ostatními zařízeními. Funkcí je velmi podobný komunikaci přes Telnet, ale jeho výhodou je bezpečnost. Telnet je nešifrovaný, zatímco pro SSH se vytvoří šifrovací klíče, takže komunikace přes SSH je bezpečná a nejde odposlouchávat. Komunikace je ještě zabezpečená heslem.
@@ -39,6 +41,7 @@ Teď se dostáváme k využití AP. Je to krabička, která umožňuje bezdráto
 
 ### Závěr:
 Toto bylo moje vysvětlení pokud by byly nějaké nejasnosti tak mi napište nebo mi řekněte ve škole cokoli co nebudete chápat tak vám klidně vysvětlím vím že jste mi doporučil udělat video jenomže můj problém je že toto témá je trochu koplikované a mám prostě problémy se vyjadřovat takže za to se omlouvám ale do příště to určitě napravím a video udělám SLIBUJU  
+ 
 
 # 4. Členi 
 Pracoval jsem sám a veškeré zdroje jsou uvedeny níže.
